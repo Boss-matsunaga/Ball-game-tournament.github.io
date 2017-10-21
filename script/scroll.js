@@ -25,4 +25,4 @@ $(function(){
       $('body,html').animate({scrollTop:position}, speed, 'swing');
       return false;
    });
-})
+});
